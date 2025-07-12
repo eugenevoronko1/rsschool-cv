@@ -84,24 +84,21 @@
 
 ## 💻 Code Example
 
-This code helps to make moving around the anchors of the page smoother and slower.
+This function checks if a name starts with the letter 'R' or 'r' (case-insensitively).
+
+* If so, it returns the string "[name] plays banjo".
+
+* If not, it returns "[name] does not play banjo".
+
+The last line, return name;, is unreachable code that never executes.
 
 ```javascript
-function scrollToTarget(target, duration = 800, offset = 100) {
-  const targetY = target.getBoundingClientRect().top - offset;
-  const startY = window.pageYOffset;
-  let startTime = null;
-
-  function animateScroll(currentTime) {
-    if (startTime === null) startTime = currentTime;
-    const timeElapsed = currentTime - startTime;
-    const progress = Math.min(timeElapsed / duration, 1);
-    const eased = easeInOutCubic(progress);
-    window.scrollTo(0, startY + targetY * eased);
-
-    if (timeElapsed < duration) {
-      requestAnimationFrame(animateScroll);
-    }
+function areYouPlayingBanjo(name) {
+ if (name.toLowerCase().startsWith('r')) {
+    return name + " plays banjo";
+  } else {
+    return name + " does not play banjo";
   }
 
-  requestAnimationFrame(animateScroll);
+  return name;
+}
