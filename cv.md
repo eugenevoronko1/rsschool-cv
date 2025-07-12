@@ -6,7 +6,6 @@
   
   <h3>Junior Front-End Developer and System Administrator</h3>
 
-  ---
 ---
 <p>
  🧠 *“Every expert was once a novice.”*  
@@ -49,17 +48,37 @@
 ---
 
 <div align="center">
-
-### 📞 Contacts & Links
-
-| Platform | Link / Info |
-|:---|:---|
-| 📧 **Email** | `eugene.voronko.13@gmail.com` |
-| 🔗 **LinkedIn** | [`linkedin.com/in/eugene-voronko`](https://www.linkedin.com/in/eugene-voronko-8806001aa/) |
-| 💻 **GitHub** | [`eugenevoronko1`](https://github.com/eugenevoronko1) |
-| 🤖 **Discord** | `eugenevoronko_25550` |
-| 📞 **Phone** | `+375 (33) 123-45-67` |
-
+  <h3>📞 Contacts & Links</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Platform</th>
+        <th>Link / Info</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>📧 <strong>Email</strong></td>
+        <td><code>eugene.voronko.13@gmail.com</code></td>
+      </tr>
+      <tr>
+        <td>🔗 <strong>LinkedIn</strong></td>
+        <td><a href="https://www.linkedin.com/in/eugene-voronko-8806001aa/">linkedin.com/in/eugene-voronko</a></td>
+      </tr>
+      <tr>
+        <td>💻 <strong>GitHub</strong></td>
+        <td><a href="https://github.com/eugenevoronko1">eugenevoronko1</a></td>
+      </tr>
+      <tr>
+        <td>🤖 <strong>Discord</strong></td>
+        <td><code>eugenevoronko_25550</code></td>
+      </tr>
+      <tr>
+        <td>📞 <strong>Phone</strong></td>
+        <td><code>+375 (33) 123-45-67</code></td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
