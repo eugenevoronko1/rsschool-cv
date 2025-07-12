@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="https://stihi.ru/photos/3redstar3.jpg" width="200" height="200" alt="Your Name" style="border-radius: 50%;">
-  
 
+  <img src="https://stihi.ru/photos/3redstar3.jpg" width="200" height="200" alt="Eugene Voronko" style="border-radius: 50%;">
 
+  <h1>Eugene Voronko</h1>
+  
+  <h3>Junior Front-End Developer and System Administrator</h3>
 
-  
-  # Eugene Voronko
-  
-  ### Junior Front-End Developer and System Administrator
+  ---
 ---
+<p>
  🧠 *“Every expert was once a novice.”*  
  I am not afraid to learn and try new things. Welcome to my journey to full-stack development!
+</p>
 </div>
 
 ---
@@ -48,15 +49,17 @@
 ---
 
 <div align="center">
-📞 Contacts & Links
+
+### 📞 Contacts & Links
 
 | Platform | Link / Info |
-|---|---|
+|:---|:---|
 | 📧 **Email** | `eugene.voronko.13@gmail.com` |
-| 🔗 **LinkedIn** | [`linkedin.com`](https://www.linkedin.com/in/eugene-voronko-8806001aa/) |
+| 🔗 **LinkedIn** | [`linkedin.com/in/eugene-voronko`](https://www.linkedin.com/in/eugene-voronko-8806001aa/) |
 | 💻 **GitHub** | [`eugenevoronko1`](https://github.com/eugenevoronko1) |
 | 🤖 **Discord** | `eugenevoronko_25550` |
-| 📞 **Phone:** | `+375331234567` |
+| 📞 **Phone** | `+375 (33) 123-45-67` |
+
 </div>
 
 ---
