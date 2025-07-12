@@ -1,0 +1,130 @@
+<div align="center">
+
+  <img src="https://stihi.ru/photos/3redstar3.jpg" width="200" height="200" alt="Eugene Voronko" style="border-radius: 50%;">
+
+  <h1>Eugene Voronko</h1>
+  
+  <h3>Junior Front-End Developer and System Administrator</h3>
+
+---
+<p>
+ 🧠 *“Every expert was once a novice.”*  
+ I am not afraid to learn and try new things. Welcome to my journey to full-stack development!
+</p>
+</div>
+
+---
+
+ ## 👤 About Me
+ 
+ Hello everyone, my name is Eugene Voronko. I am a system administrator from the private IT school "ITLANDIA". I want to change the direction towards development. I am fond of sports, poetry, programming, technology and many others.  My dreams are to become either a Full Stack Dev or a DevOps engineer.
+
+ Technically-minded System Administrator transitioning into software development with the goal of becoming a Full Stack or DevOps Engineer. I combine a solid understanding of IT infrastructure with growing proficiency in programming languages like JavaScript, TypeScript, and Python. I am seeking an opportunity to apply my diverse skill set to build and maintain high-quality software.
+
+---
+
+## 🎓 Education
+
+### **The Rolling Scopes School**
+* **Course:** JS/Front-end Development
+* **Dates:** 2025 – Present
+
+### **Yanka Kupala State University of Grodno**
+* **Specialty:** Information Technology Software (Software Engineer)
+* **Dates:** 2016 - 2020
+
+### **Yanka Kupala State University of Grodno**
+* **Degree:** Master of Technical Sciences in Computer Engineering
+* **Dates:** 2020 - January 2022
+
+---
+
+## 🛠️ Skills
+* **Languages:** JavaScript (ES6+), HTML5, CSS3, TypeScript, Python , C# , PHP, Assembler(basic),LUA.
+* **Tools & Platforms:** Git, GitHub, VS Code, Webpack, npm, Figma , Android Studio , yarn ,web storm .
+* **Methodologies:** Agile, Scrum (Familiar), BEM.
+* **Other:** SASS/SCSS, Responsive & Adaptive Design, REST API , IP, Servers (Ubuntu,Fedora, Microsoft Windows Servers), OS, Android Developmnet , HTTP/HTTPS , FTP, DNS and other.
+
+---
+
+<div align="center">
+  <h3>📞 Contacts & Links</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Platform</th>
+        <th>Link / Info</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>📧 <strong>Email</strong></td>
+        <td><code>eugene.voronko.13@gmail.com</code></td>
+      </tr>
+      <tr>
+        <td>🔗 <strong>LinkedIn</strong></td>
+        <td><a href="https://www.linkedin.com/in/eugene-voronko-8806001aa/">linkedin.com/in/eugene-voronko</a></td>
+      </tr>
+      <tr>
+        <td>💻 <strong>GitHub</strong></td>
+        <td><a href="https://github.com/eugenevoronko1">eugenevoronko1</a></td>
+      </tr>
+      <tr>
+        <td>🤖 <strong>Discord</strong></td>
+        <td><code>eugenevoronko_25550</code></td>
+      </tr>
+      <tr>
+        <td>📞 <strong>Phone</strong></td>
+        <td><code>+375 (33) 123-45-67</code></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+## Experience / Projects
+
+### CV (This Project)
+* **Description:** A responsive CV page created as a project for the RS School course.
+* **Technology Stack:** HTML, CSS, Markdown.
+* **Link:** [github.com](https://github.com/eugenevoronko1/rsschool-cv/blob/gh-pages/cv.md)
+
+### Landing Page - Mebel Hit
+* **Description:** The landing page for the Mebel Hit company was created at the request of my students, whom I taught in system administration.  A personal initiative to make a page similar to a "grocery" one
+* **Technology Stack:** [For example: HTML, CSS, JavaScript.]
+* **Link:** [github.com](https://eugenevoronko1.github.io/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/First_company/Index.html)
+
+---
+
+## 🌐 Languages
+
+| Language | Speaking | Reading & Comprehension |
+|---|---|---|
+| **English** | **A2** (Elementary) | **B1** (Intermediate) |
+| **Polish** | **A1** (Beginner) | **A1** (Beginner) |
+| **Russian** | Native | Native |
+| **Belarusian** | Native | Native |
+
+---
+
+## 💻 Code Example
+
+This function checks if a name starts with the letter 'R' or 'r' (case-insensitively).
+
+* If so, it returns the string "[name] plays banjo".
+
+* If not, it returns "[name] does not play banjo".
+
+The last line, return name;, is unreachable code that never executes.
+
+```javascript
+function areYouPlayingBanjo(name) {
+ if (name.toLowerCase().startsWith('r')) {
+    return name + " plays banjo";
+  } else {
+    return name + " does not play banjo";
+  }
+
+  return name;
+}
