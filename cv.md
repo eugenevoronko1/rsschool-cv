@@ -5,17 +5,16 @@
   
   ### Junior Front-End Developer and System Administrator
 ---
-> 🧠 *“Every expert was once a novice.”*  
-> I am not afraid to learn and try new things. Welcome to my journey to full-stack development!
+ 🧠 *“Every expert was once a novice.”*  
+ I am not afraid to learn and try new things. Welcome to my journey to full-stack development!
 </div>
 
 ---
 
-> ## 👤 About Me
-> 
-> Hello everyone, my name is Eugene Voronko. I am a system administrator from the private IT school "ITLANDIA". I want to change the direction towards development. I am fond of sports, poetry, programming, technology and many others.  My dreams are to become either a Full Stack Dev or a DevOps engineer.
+ ## 👤 About Me
+ 
+ Hello everyone, my name is Eugene Voronko. I am a system administrator from the private IT school "ITLANDIA". I want to change the direction towards development. I am fond of sports, poetry, programming, technology and many others.  My dreams are to become either a Full Stack Dev or a DevOps engineer.
 
----
 ---
 
 ## 🎓 Education
@@ -41,8 +40,9 @@
 * **Other:** SASS/SCSS, Responsive & Adaptive Design, REST API , IP, Servers (Ubuntu,Fedora, Microsoft Windows Servers), OS, Android Developmnet , HTTP/HTTPS , FTP, DNS and other.
 
 ---
+
 <div align="center">
-## 📞 Contacts & Links
+📞 Contacts & Links
 
 | Platform | Link / Info |
 |---|---|
@@ -52,6 +52,7 @@
 | 🤖 **Discord** | `eugenevoronko_25550` |
 | 📞 **Phone:** | `+375331234567` |
 </div>
+
 ---
 
 ## Summary
