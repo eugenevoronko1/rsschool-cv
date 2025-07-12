@@ -15,6 +15,8 @@
  
  Hello everyone, my name is Eugene Voronko. I am a system administrator from the private IT school "ITLANDIA". I want to change the direction towards development. I am fond of sports, poetry, programming, technology and many others.  My dreams are to become either a Full Stack Dev or a DevOps engineer.
 
+ Technically-minded System Administrator transitioning into software development with the goal of becoming a Full Stack or DevOps Engineer. I combine a solid understanding of IT infrastructure with growing proficiency in programming languages like JavaScript, TypeScript, and Python. I am seeking an opportunity to apply my diverse skill set to build and maintain high-quality software.
+
 ---
 
 ## 🎓 Education
@@ -24,12 +26,12 @@
 * **Dates:** 2025 – Present
 
 ### **Yanka Kupala State University of Grodno**
-* **Role/Specialization:** `[Specialty- Information technology software - Software Engineer-Bachelor's degree]`
-* **Dates:** `[Years of study 2016-2020]`
+* **Specialty:** Information Technology Software (Software Engineer)
+* **Dates:** 2016 - 2020
 
 ### **Yanka Kupala State University of Grodno**
-* **Degree:** `[Specialty- Computer Engineering - Master of Technical Sciences- Master's degree]`
-* **Dates:** `[Years of study 2020- January 2022]`
+* **Degree:** Master of Technical Sciences in Computer Engineering
+* **Dates:** 2020 - January 2022
 
 ---
 
@@ -52,12 +54,6 @@
 | 🤖 **Discord** | `eugenevoronko_25550` |
 | 📞 **Phone:** | `+375331234567` |
 </div>
-
----
-
-## Summary
-
-Technically-minded System Administrator transitioning into software development with the goal of becoming a Full Stack or DevOps Engineer. I combine a solid understanding of IT infrastructure with growing proficiency in programming languages like JavaScript, TypeScript, and Python. I am seeking an opportunity to apply my diverse skill set to build and maintain high-quality software.
 
 ---
 
