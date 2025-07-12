@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://stihi.ru/photos/3redstar3.jpg" width="200" height="200" alt="Your Name" style="border-radius: 50%;">
   
+
+
+
+  
   # Eugene Voronko
   
   ### Junior Front-End Developer and System Administrator
